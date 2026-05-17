@@ -1,0 +1,9 @@
+=====================================
+        LOG ANALYSIS REPORT
+=====================================
+
+Typ bledu: 'ERROR' -> znaleziono razy: 3
+Typ bledu: 'failed' -> znaleziono razy: 1
+Typ bledu: 'database' -> znaleziono razy: 2
+Typ bledu: 'timeout' -> znaleziono razy: 1
+Typ bledu: 'refused' -> znaleziono razy: 1
