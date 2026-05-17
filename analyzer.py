@@ -28,6 +28,17 @@ def analyze_log(file_path):
 
         print(f"Raport z pliku '{file_path}' zostal pomyslnie wygnerowany w report.txt")
 
+penguin = """
+     .-"-.
+    / 0 0 \\
+    \\_ v _/         LINUX LOG ANALYZER
+    //   \\\\         Analiza zakonczona!
+   ||     ||        Raport zapisano w report.txt
+   \\\\_ _ _//
+    `-` `-'
+"""
+    print(penguin)
+
 
 if __name__ == "__main__":
         if len(sys.argv) < 2:
