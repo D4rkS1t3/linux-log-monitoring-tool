@@ -1,0 +1,7 @@
+2026-05-17 10:00:00 INFO User 123 logged in successfully
+2026-05-17 10:01:15 ERROR Database connection failed
+2026-05-17 10:02:30 WARN High memory usage on server
+2026-05-17 10:03:00 ERROR Timeout while calling payment API
+2026-05-17 10:04:12 INFO Transaction 9982 processed
+2026-05-17 10:05:00 CRITICAL Connection refused by internal service
+2026-05-17 10:05:22 ERROR Database execution error
