@@ -22,5 +22,5 @@ python3 analyzer.py logs/app.log
 
 Oto wynik uruchomienia skryptu oraz zawartość wygenerowanego raportu w terminalu:
 
-![Wynik działania i raport z logów](1.png)
+![Wynik działania i raport z logów](2.png)
 
