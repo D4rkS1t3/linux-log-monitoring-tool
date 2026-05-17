@@ -17,7 +17,7 @@ Skrypt nie ma wpisanej nazwy pliku na stałe. Ścieżkę do logów podajesz bezp
 
 ```bash
 python3 analyzer.py logs/app.log
-
+```
 ## Podgląd działania programu
 
 Oto wynik uruchomienia skryptu oraz zawartość wygenerowanego raportu w terminalu:
